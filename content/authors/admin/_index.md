@@ -4,7 +4,11 @@ role: Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: Robert's research interests include risk analysis, stochastic optimization,
   and data methods for modern power system operations and electricity markets.
-interests: []
+interests: 
+  - Stochastic Optimzation
+  - Power System Operations
+  - Power System Economics
+  - Open Science 
 social:
   - display:
       header: false
