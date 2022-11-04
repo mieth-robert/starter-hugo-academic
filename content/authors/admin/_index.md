@@ -11,6 +11,11 @@ social:
     link: https://scholar.google.de/citations?user=xF6QXAUAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/robert-mieth-8476aa164/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Princeton University
     url: https://ece.princeton.edu/people/robert-mieth
