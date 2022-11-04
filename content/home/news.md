@@ -2,7 +2,7 @@
 widget: collection
 widget_id: news
 headless: true
-weight: 10
+weight: 15
 title: News
 active: true
 design:
