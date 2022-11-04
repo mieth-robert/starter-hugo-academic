@@ -5,7 +5,6 @@ author: admin
 widget_id: about-landing
 headless: true
 weight: 20
-title: ""
-subtitle: Bio
+title: Bio
+subtitle: ""
 ---
-T﻿est HEllloooooo
