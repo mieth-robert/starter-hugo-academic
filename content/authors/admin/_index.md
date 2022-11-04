@@ -1,7 +1,7 @@
 ---
 title: Robert Mieth
 role: Postdoctoral Fellow
-avatar_filename: profilbild.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include risk analysis, stochastic optimization, and
   data methods for modern power system operations and electricity markets.
 interests: []
